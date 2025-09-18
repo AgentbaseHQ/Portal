@@ -12,6 +12,6 @@
 
 </div>
 
-Portal is an open source project by [Pointer](https://trypointer.com) that provides a suite of GUI tools for agents to collaborate with humans. With Portal, AI agents can interact with browsers, operating systems, text editors, media players, IDEs, and many other interfaces, enabling seamless human-AI collaboration on complex tasks. Whether for development, content creation, or data analysis, Portal bridges the gap between AI capabilities and human workflows.
+Portal is an open source project by [Agentbase](https://www.agentbase.sh) that provides a suite of GUI tools for agents to collaborate with humans. With Portal, AI agents can interact with browsers, operating systems, text editors, media players, IDEs, and many other interfaces, enabling seamless human-AI collaboration on complex tasks. Whether for development, content creation, or data analysis, Portal bridges the gap between AI capabilities and human workflows.
 
 More coming soon...
